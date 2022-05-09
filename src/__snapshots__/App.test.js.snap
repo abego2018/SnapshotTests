@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="http://placekitten.com/100/100"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Abraham
+      </div>
+      <p
+        className="card-text"
+      >
+        I like to program
+      </p>
+      <button
+        className="btn btn-primary"
+        disabled={false}
+        type="button"
+      >
+        Go somewhere
+      </button>
+    </div>
+  </div>
+</div>
+`;
